@@ -1,4 +1,4 @@
-import log from './Resource/log.jpg';
+import log from './Log.jpg';
 import './App.css';
 
 function App() {
@@ -10,7 +10,7 @@ function App() {
           Learn <code>src/App.js</code> and save to reload.
         </p>
         <a
-          className="App-link" 
+          className="App-link"
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
