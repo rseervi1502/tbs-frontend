@@ -1,4 +1,3 @@
-import log from './Log.jpg';
 import './App.css';
 
 function App() {
